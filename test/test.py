@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
+import sys
+sys.path.append(".")
+
 import unittest
-import src.cotizador as cot
+from src import cotizador as cot
 import xmlrunner
 
 class Test(unittest.TestCase):
@@ -85,4 +88,4 @@ class Test(unittest.TestCase):
 
 
 if __name__ == '__main__':
-	unittest.main(testRunner=xmlrunner.XMLTestRunner(output='test-reports'))
+	unittest.main(testRunner=xmlrunner.XMLTestRunner(output='test/test-reports'))

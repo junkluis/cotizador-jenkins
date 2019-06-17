@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file=".py" name="Test-20190616234950" skipped="0" tests="19" time="0.016" timestamp="2019-06-16T23:49:50">
+	<testcase classname="Test" file="test\test.py" line="13" name="test_cotizador_ID" time="0.016" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="20" name="test_cotizar_seguro_ciudad_no_valida" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="16" name="test_cotizar_seguro_ciudad_valida" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="37" name="test_cotizar_seguro_dependientes_1_dependiente" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="41" name="test_cotizar_seguro_dependientes_2_dependiente" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="45" name="test_cotizar_seguro_dependientes_3_dependiente" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="49" name="test_cotizar_seguro_dependientes_4_dependiente" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="28" name="test_cotizar_seguro_dependientes_excedentes" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="24" name="test_cotizar_seguro_dependientes_fuera_rango" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="33" name="test_cotizar_seguro_dependientes_sin_dependientes" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="53" name="test_cotizar_seguro_edad_fuera_rango" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="77" name="test_cotizar_seguro_valor_adicional_hombre_con_infarto" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="81" name="test_cotizar_seguro_valor_adicional_hombre_mayor_con_diabetes" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="61" name="test_cotizar_seguro_valor_adicional_hombres_jovenes_y_casadas" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="69" name="test_cotizar_seguro_valor_adicional_hombres_jovenes_y_soltero" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="73" name="test_cotizar_seguro_valor_adicional_mujer_con_osteoporosis" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="85" name="test_cotizar_seguro_valor_adicional_mujer_mayor_con_cancer" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="57" name="test_cotizar_seguro_valor_adicional_mujeres_jovenes_y_casadas" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="Test" file="test\test.py" line="65" name="test_cotizar_seguro_valor_adicional_mujeres_jovenes_y_soltera" time="0.000" timestamp="2019-06-16T23:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>
