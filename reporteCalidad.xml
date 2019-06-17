@@ -1,0 +1,106 @@
+************* Module cotizador
+src\cotizador.py:5:42: C0303: Trailing whitespace (trailing-whitespace)
+src\cotizador.py:6:42: C0303: Trailing whitespace (trailing-whitespace)
+src\cotizador.py:5:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:8:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:9:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:10:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:11:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:12:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:13:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:14:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:15:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:16:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:17:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:18:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:19:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:22:50: C0303: Trailing whitespace (trailing-whitespace)
+src\cotizador.py:23:48: C0303: Trailing whitespace (trailing-whitespace)
+src\cotizador.py:24:34: C0303: Trailing whitespace (trailing-whitespace)
+src\cotizador.py:22:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:26:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:27:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:28:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:29:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:30:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:31:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:32:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:33:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:34:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:35:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:36:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:36:11: C0326: Exactly one space required after comparison
+	elif edad >40 and edad<=60:
+           ^ (bad-whitespace)
+src\cotizador.py:36:23: C0326: Exactly one space required around comparison
+	elif edad >40 and edad<=60:
+                       ^^ (bad-whitespace)
+src\cotizador.py:37:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:38:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:39:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:40:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:41:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:42:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:43:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:43:11: C0326: Exactly one space required after comparison
+	elif edad >60:
+           ^ (bad-whitespace)
+src\cotizador.py:44:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:44:26: C0326: Exactly one space required after comma
+		if especial in ['cancer','diabetes']:
+                          ^ (bad-whitespace)
+src\cotizador.py:45:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:46:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:47:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:48:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:49:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:52:59: C0303: Trailing whitespace (trailing-whitespace)
+src\cotizador.py:54:39: C0303: Trailing whitespace (trailing-whitespace)
+src\cotizador.py:52:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:56:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:57:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:57:26: C0326: Exactly one space required after comma
+	if ciudad in ['Guayaquil','Quito','Cuenca','Machala']:
+                          ^ (bad-whitespace)
+src\cotizador.py:57:34: C0326: Exactly one space required after comma
+	if ciudad in ['Guayaquil','Quito','Cuenca','Machala']:
+                                  ^ (bad-whitespace)
+src\cotizador.py:57:43: C0326: Exactly one space required after comma
+	if ciudad in ['Guayaquil','Quito','Cuenca','Machala']:
+                                           ^ (bad-whitespace)
+src\cotizador.py:58:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:59:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:59:10: C0326: Exactly one space required around comparison
+			if edad>=18 and edad<=75:
+          ^^ (bad-whitespace)
+src\cotizador.py:59:23: C0326: Exactly one space required around comparison
+			if edad>=18 and edad<=75:
+                       ^^ (bad-whitespace)
+src\cotizador.py:60:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:61:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:62:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:63:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:64:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:65:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:66:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:66:20: C0326: Exactly one space required after comparison
+		elif dependientes <=9 and dependientes > 4:
+                    ^^ (bad-whitespace)
+src\cotizador.py:67:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:69:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:70:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:71:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:72:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:73:0: C0304: Final newline missing (missing-final-newline)
+src\cotizador.py:73:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+src\cotizador.py:1:0: C0111: Missing module docstring (missing-docstring)
+src\cotizador.py:27:4: R1716: Simplify chained comparison between the operands (chained-comparison)
+src\cotizador.py:36:6: R1716: Simplify chained comparison between the operands (chained-comparison)
+src\cotizador.py:21:0: R0912: Too many branches (13/12) (too-many-branches)
+src\cotizador.py:51:0: R0913: Too many arguments (6/5) (too-many-arguments)
+src\cotizador.py:59:6: R1716: Simplify chained comparison between the operands (chained-comparison)
+src\cotizador.py:66:7: R1716: Simplify chained comparison between the operands (chained-comparison)
+
+--------------------------------------------------------------------
+Your code has been rated at -6.20/10 (previous run: -6.20/10, +0.00)
+
